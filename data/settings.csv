@@ -1,12 +1,12 @@
-key,value
-course_name,Product Manager PRO
-course_subtitle,"Відповіді на часті запитання про навчання, оплату, сертифікат і доступ до матеріалів курсу."
-subbrand,faq
-tags,"онлайн-курс, 4 місяці, junior-middle"
-accent,#4BD86A
-site_url,https://robotdreams.cc
-site_label,robotdreams.cc
-contact_title,Не знайшли відповідь?
-contact_text,"Напишіть у підтримку — відповімо в робочий час."
-contact_label,Написати в підтримку
-contact_url,https://robotdreams.cc
+"key","value",""
+"course_name","Hardware Design Engineering",""
+"course_subtitle","Відповіді на найпоширеніші запитання",""
+"subbrand","faq",""
+"tags","онлайн-курс, 22 заняття, middle",""
+"accent","#4BD86A",""
+"site_url","https://robot-dreams-code.github.io/rd-faq-template.github.io/",""
+"site_label","Лектор ДМИТРО БАРАБАШ – Hardware Designer в Amazon",""
+"contact_title","Не знайшли відповідь?",""
+"contact_text","Напишіть у Slack — лектор, методист або куратор допоможуть ASAP.",""
+"contact_label","Написати в підтримку",""
+"contact_url","https://inlaba.slack.com/archives/C05JEP6CTJ6",""
